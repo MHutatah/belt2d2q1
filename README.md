@@ -1,7 +1,6 @@
 ---
-# YOUR-NAME (eg. Chandra Arya)
-YOUR-introduction
-Eg. Software and DevOps engineer, Cloud architect, Instructor.
+# Mohammed Alghamdi
+A fresh graduate Computer Engineer, 
 
 <div id="webaddress">
 <a href="hutatah@gmail.com">hutatah@gmail.com</a>
@@ -10,19 +9,18 @@ Eg. Software and DevOps engineer, Cloud architect, Instructor.
 
 
 ## Currently
-YOUR-JOB/STUDY
 Fresh Graduate Computer Engineer
+Coding Dojo DevOps Bootcamp
 
 ### Specialized in
-
-COmputer Networks, Embedded Systems, Electronics, System Adminstration.
+Computer Networks, Embedded Systems, Electronics, System Adminstration.
 
 
 
 ## Education
 
 Taif University
-
+Bachelor of Computer Engineering
 
 
 ## Awards
@@ -35,8 +33,8 @@ Student Council Member
 
 
 ## Occupation
-YOUR-job/study
-System Analyst Intern - Saudi Authority for Artificial Intelligence and Data
+System Analyst Intern - Saudi Authority for Artificial Intelligence and Data (May 2021 - July 2021)
+
 ## Projects
 
 <a href="https://github.com/MHutatah/Project_SWIS">Smart Water Irrigation System</a>
