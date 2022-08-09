@@ -37,7 +37,7 @@ System Analyst Intern - Saudi Authority for Artificial Intelligence and Data (Ma
 
 ## Projects
 
-<a href="https://github.com/MHutatah/Project_SWIS">Smart Water Irrigation System</a>
+<a href="https://github.com/MHutatah/belt2d2">Jenkins Project</a>
 
 <!-- ### Footer
 
